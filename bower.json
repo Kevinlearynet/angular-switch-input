@@ -1,39 +1,45 @@
 {
-	"name": "angular-switch-input",
-	"description": "Angular directive for creating on/off switch form fields using pure CSS3",
-	"version": "0.0.1",
-	"homepage": "https://github.com/kevinlearynet/angular-switch-input",
-	"authors": [ {
-		"name": "Kevin Leary",
-		"email": "info@kevinleary.net"
-	} ],
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/kevinlearynet/angular-switch-input.git"
-	},
-	"keywords": [
-		"angularjs",
-		"angular",
-		"switch",
-		"switch input",
-		"on/off input",
-		"switch field",
-		"toggle switch"
-	],
-	"license": [
-		"https://github.com/kevinlearynet/angular-switch-input/LICENSE"
-	],
-	"main": [
-		"./dist/angular-switch-input.js"
-	],
-	"ignore": [
-		"**/.*",
-		"Gruntfile.js",
-		"package.json",
-		"*.sublime-project",
-		"*.sublime-workspace"
-	],
-	"dependencies": {
-		"angular": "~1.2.16"
-	}
+  "name": "angular-switch-input",
+  "description": "Angular directive for creating on/off switch form fields using pure CSS3",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kevinlearynet/angular-switch-input",
+  "directory": "vendor",
+  "authors": [ {
+    "name": "Kevin Leary",
+    "email": "info@kevinleary.net"
+  } ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kevinlearynet/angular-switch-input.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angular",
+    "switch",
+    "switch input",
+    "on/off input",
+    "switch field",
+    "toggle switch"
+  ],
+  "license": [
+    "https://github.com/kevinlearynet/angular-switch-input/LICENSE"
+  ],
+  "main": [
+    "./dist/angular-switch-input.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "Gruntfile.js",
+    "package.json",
+    "*.sublime-project",
+    "*.sublime-workspace",
+    "test"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "jquery": "~2.1.1"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.16"
+  }
 }

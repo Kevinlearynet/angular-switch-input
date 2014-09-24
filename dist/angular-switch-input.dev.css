@@ -1,23 +1,23 @@
 /*------------------------------------------------------------------------------
   Directive: On/off switch
 ------------------------------------------------------------------------------*/
-.on-off-switch {
+.switch-input {
   position: relative;
   width: 55px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
 }
-.on-off-switch.active .on-off-switch-inner {
+.switch-input.active .switch-input-inner {
   margin-left: 0;
 }
-.on-off-switch.active .on-off-switch-switch {
+.switch-input.active .switch-input-switch {
   right: 0px;
 }
-.on-off-switch .on-off-switch-checkbox {
+.switch-input .switch-input-checkbox {
   display: none;
 }
-.on-off-switch .on-off-switch-label {
+.switch-input .switch-input-label {
   display: block;
   overflow: hidden;
   cursor: pointer;
@@ -26,7 +26,7 @@
   -moz-border-radius: 20px;
   border-radius: 20px;
 }
-.on-off-switch .on-off-switch-inner {
+.switch-input .switch-input-inner {
   display: block;
   width: 200%;
   margin-left: -100%;
@@ -36,8 +36,8 @@
   -ms-transition: margin 0.3s ease-in 0s;
   transition: margin 0.3s ease-in 0s;
 }
-.on-off-switch .on-off-switch-inner:before,
-.on-off-switch .on-off-switch-inner:after {
+.switch-input .switch-input-inner:before,
+.switch-input .switch-input-inner:after {
   display: block;
   float: left;
   width: 50%;
@@ -47,20 +47,20 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
-.on-off-switch .on-off-switch-inner:before {
+.switch-input .switch-input-inner:before {
   content: "";
   padding-left: 10px;
   background-color: #18B084;
   color: #FFFFFF;
 }
-.on-off-switch .on-off-switch-inner:after {
+.switch-input .switch-input-inner:after {
   content: "";
   padding-right: 10px;
   background-color: #70767F;
   color: #FFFFFF;
   text-align: right;
 }
-.on-off-switch .on-off-switch-switch {
+.switch-input .switch-input-switch {
   display: block;
   width: 17px;
   margin: 4px;

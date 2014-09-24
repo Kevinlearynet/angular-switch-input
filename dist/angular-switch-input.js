@@ -29,7 +29,6 @@
 				return currentScript.replace( currentScriptFile, '' );
 			}
 			var currentPath = currentScriptPath();
-			console.log( currentPath );
 
 			return {
 				restrict: 'E',
