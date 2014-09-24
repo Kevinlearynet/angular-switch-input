@@ -1,0 +1,1538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"wp_send_",
+				"wp_send_json_error"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"wp_jso",
+				"wp_send_json_error"
+			],
+			[
+				"wp_send_json",
+				"wp_send_json_error"
+			],
+			[
+				"wp_json",
+				"wp_send_json_error"
+			],
+			[
+				"json_",
+				"json_decode"
+			],
+			[
+				"wp_send_json_",
+				"wp_send_json_success"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ob_get",
+				"ob_get_contents"
+			],
+			[
+				"get_the_",
+				"get_the_content"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"prevent",
+				"preventDefault"
+			],
+			[
+				"dash",
+				"dashboardNav"
+			],
+			[
+				"esc_attr",
+				"esc_attr_e"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"u",
+				"upper-alpha"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"read",
+				"readonly	Attr"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"esc_att",
+				"esc_attr_e"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"wp_login",
+				"wp_login_url"
+			],
+			[
+				"get_the",
+				"get_the_title"
+			],
+			[
+				"is_sing",
+				"is_singular"
+			],
+			[
+				"plugin_path",
+				"plugin_dir_path"
+			],
+			[
+				"sanitizei",
+				"sanitize_email"
+			],
+			[
+				"get_templa",
+				"get_template_part"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"border-bott",
+				"border-bottom-color"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"is_page",
+				"is_page_template"
+			],
+			[
+				"wp_regi",
+				"wp_register_script"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"maybe",
+				"maybe_unserialize"
+			],
+			[
+				"is_user",
+				"is_user_logged_in"
+			],
+			[
+				"get_curr",
+				"wp_get_current_user"
+			],
+			[
+				"get_user",
+				"get_userdata"
+			],
+			[
+				"santize",
+				"sanitize_email"
+			],
+			[
+				"get_post",
+				"get_post_custom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"overfl",
+				"overflow-x"
+			],
+			[
+				"light",
+				"lighten(color, 10%)"
+			],
+			[
+				"su",
+				"super"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pading",
+				"padding-top"
+			],
+			[
+				"enqueue",
+				"wp_enqueue_scripts"
+			],
+			[
+				"get_style",
+				"get_stylesheet_directory_uri"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ob_end",
+				"ob_end_flush"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"plugin_d",
+				"plugin_dir_path"
+			],
+			[
+				"impl",
+				"implode"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"request",
+				"request_url"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"http_bu",
+				"http_build_query"
+			],
+			[
+				"class",
+				"class_exists"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/kevinleary/Sites/angular-trial-app/styles/less/directives.less",
+			"settings":
+			{
+				"buffer_size": 2424,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/kevinleary/Sites/angular-trial-app/scripts/directives/ng-on-off-switch.js",
+			"settings":
+			{
+				"buffer_size": 464,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 703 files for \"wp_remote\"\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/akismet/class.akismet-admin.php:\n  588  		}\n  589  			\n  590: 		$response = wp_remote_get( 'http://rest.akismet.com/1.1/test' );\n  591  		\n  592  		$debug[ 'gethostbynamel' ]  = function_exists('gethostbynamel') ? 'exists' : 'not here';\n  ...\n  596  		Akismet::log( $debug );\n  597  		\n  598: 		if ( $response && 'connected' == wp_remote_retrieve_body( $response ) )\n  599  			return true;\n  600  		\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/akismet/class.akismet.php:\n  793  \n  794  		$akismet_url = \"http://{$http_host}/1.1/{$path}\";\n  795: 		$response = wp_remote_post( $akismet_url, $http_args );\n  796  		Akismet::log( compact( 'akismet_url', 'http_args', 'response' ) );\n  797  		if ( is_wp_error( $response ) )\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/gravityforms/common.php:\n 1975  \n 1976          $request_url = GRAVITY_MANAGER_URL . \"/\" . $file . \"?\" . $query;\n 1977:         $raw_response = wp_remote_post($request_url, $options);\n 1978  \n 1979          if ( is_wp_error( $raw_response ) || 200 != $raw_response['response']['code'] ){\n 1980              $request_url = GRAVITY_MANAGER_PROXY_URL . \"/proxy.php?f=\" . $file . \"&\" . $query;\n 1981:             $raw_response = wp_remote_post($request_url, $options);\n 1982          }\n 1983  \n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/gravityformsuserregistration/plugin-upgrade.php:\n   64          );\n   65  \n   66:         $raw_response = wp_remote_request(GRAVITY_MANAGER_URL . \"/changelog.php?\" . self::get_remote_request_params($offering, $key, $version), $options);\n   67  \n   68          if ( is_wp_error( $raw_response ) || 200 != $raw_response['response']['code']){\n   ..\n   93              );\n   94              $url = GRAVITY_MANAGER_URL . \"/version.php?\" . self::get_remote_request_params($offering, $key, $version);\n   95:             $raw_response = wp_remote_request($url, $options);\n   96  \n   97              if ( is_wp_error( $raw_response ) || 200 != $raw_response['response']['code']){\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/LayerSlider/layerslider.php:\n  230  \n  231  	// Verify license\n  232: 	$response = wp_remote_post('http://activate.kreaturamedia.com/', array(\n  233  		'user-agent' => 'WordPress/'.$wp_version.'; '.get_bloginfo('url'),\n  234  		'body' => array(\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/LayerSlider/lib/class.km.autoupdate.php:\n  214  \n  215  		// Build request\n  216: 		$request = wp_remote_post($this->repo, array(\n  217  			'user-agent' => 'WordPress/'.$wp_version.'; '.get_bloginfo('url'),\n  218  			'body' => array(\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/pardot/includes/pardot-api-class.php:\n    9   * architecture is not robust enough to expose for external use as an update would create a breaking change.\n   10   *\n   11:  * @note Requires WordPress API because of its use of wp_remote_request(), wp_remote_retrieve_response_code() and\n   12:  * wp_remote_retrieve_body() but otherwise independent of WordPress. Could be made standalone if these functions\n   13   * replaced with CURL equivalents.\n   14   *\n   ..\n  429  		);\n  430  \n  431: 		$http_response = wp_remote_request(\n  432  			$this->_get_url( $item_type, $args ),\n  433  			array_merge( array(\n  ...\n  452  \n  453  		$response = false;\n  454: 		if( wp_remote_retrieve_response_code( $http_response ) == 200 ) {\n  455: 			$response = new SimpleXMLElement( wp_remote_retrieve_body( $http_response ) );\n  456  			if ( ! empty( $response->err ) ) {\n  457  				$this->error = $response->err;\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/pardot/includes/pardot-forms-widget-class.php:\n  123  				 *\n  124  				 */\n  125: 				$response = wp_remote_post(\n  126  					$_GET['url'], array(\n  127  						'body' => $_POST,\n  ...\n  136  				 *\n  137  				 */\n  138: 				$result = wp_remote_retrieve_response_code( $response ) == 200 ? 'success' : 'errors';\n  139  \n  140  				/**\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/pardot/includes/pardot-plugin-class.php:\n  721  							 * Now call the URL to get the HTML page that Pardot expects to be inlined\n  722  							 */\n  723: 							$response = (object) wp_remote_get( $url );\n  724  \n  725  							/**\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/query-monitor/collectors/http.php:\n  144  					$this->data['errors']['error'][] = $key;\n  145  			} else {\n  146: 				if ( intval( wp_remote_retrieve_response_code( $http['response'] ) ) >= 400 )\n  147  					$this->data['errors']['warning'][] = $key;\n  148  			}\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/query-monitor/output/html/http.php:\n   71  					$css      = 'qm-warn';\n   72  				} else {\n   73: 					$response = wp_remote_retrieve_response_code( $row['response'] );\n   74: 					$msg      = wp_remote_retrieve_response_message( $row['response'] );\n   75  					$css      = '';\n   76  \n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0/WP_Auth0.php:\n   73  \n   74  		// get API access token\n   75: 		$response = wp_remote_post( $endpoint . 'oauth/token', array(\n   76  			'headers' => array(\n   77  				'content-type' => 'application/x-www-form-urlencoded'\n   ..\n  152  \n  153  		// API POST request\n  154: 		$response = wp_remote_request( $url, array(\n  155  			'method' => $method,\n  156  			'headers' => $headers,\n  ...\n  271  \n  272  \n  273: 		$response = wp_remote_post( $endpoint . 'oauth/token', array(\n  274  			'headers' => $headers,\n  275  			'body' => $body\n  ...\n  288  \n  289  			// get user info\n  290: 			$response = wp_remote_get( $endpoint . 'userinfo/?access_token=' . $data->access_token );\n  291  			if ($response instanceof WP_Error) {\n  292  				error_log($response->get_error_message());\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/cloud.php:\n  322  \n  323  			// HTTP POST\n  324: 			$response = wp_remote_post( CLOUD_OL_ENDPOINT . 'me/token', array(\n  325  				'headers' => array(\n  326  					'content-type' => 'application/json',\n  ...\n  370  		\n  371  		// make request\n  372: 		$response = wp_remote_request( CLOUD_OL_ENDPOINT . $endpoint, array(\n  373  			'method' => $method,\n  374  			'headers' => $headers,\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/licensing.php:\n  366  		// make a request to pardot custom redirect\n  367  		$custom_redirect = \"http://go.rapidminer.com/license-{$product}-{$trial}\";\n  368: 		$request = wp_remote_head( $custom_redirect );\n  369  \n  370  		// store to pardot prospect custom field data\n  ...\n  626  		);\n  627  \n  628: 		$result = wp_remote_post( $url, $params );\n  629  \n  630  		// error handling\n  ...\n  647  \n  648  		// process response\n  649: 		$json_response = wp_remote_retrieve_body( $result );\n  650  		$license_data = json_decode( $json_response ); \n  651  \n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/pardot.php:\n   57  			'format' => 'json',\n   58  		) );\n   59: 		$response = wp_remote_post( 'https://pi.pardot.com/api/login/version/3', array(\n   60  			'body' => $args,\n   61  		) );\n   ..\n   68  \n   69  		// check for pardot errors\n   70: 		$body = json_decode( wp_remote_retrieve_body( $response ) );\n   71  		if ( property_exists( $body, 'err' ) ) {\n   72  			$this->wp_error->add( __CLASS__, __(\"Pardot request failed: '{$body->err}'\") );\n   ..\n  138  		// http POST 'upsert' request to pardot for creating or updating an existing prospect\n  139  		$http_args = http_build_query( $args );\n  140: 		$response = wp_remote_post( 'https://pi.pardot.com/api/prospect/version/3/do/update/email/', array(\n  141  			'body' => $args,\n  142  		) );\n  ...\n  147  \n  148  		// check for pardot errors\n  149: 		$body = json_decode( wp_remote_retrieve_body( $response ) );\n  150  		if ( property_exists( $body, 'err' ) )\n  151  			return \"Pardot request failed: '{$body->err}'\";\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/sandbox.php:\n  117  		);\n  118  \n  119: 		$result = wp_remote_post( $url, $params );\n  120  		dd( $result );\n  121  \n  122: 		$body = wp_remote_retrieve_body( $result );\n  123  		//dd( $body );\n  124  \n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/stripe/includes/misc-functions.php:\n  296  	);\n  297  \n  298: 	$response = wp_remote_get( add_query_arg( $activate_params, SC_EDD_SL_STORE_URL ), array( 'timeout' => 15, 'sslverify' => false ) );\n  299  \n  300  	if( is_wp_error( $response ) )\n  ...\n  305  	}\n  306  	\n  307: 	$activate_data = json_decode( wp_remote_retrieve_body( $response ) );\n  308  	\n  309  	if( $activate_data->license == 'valid' ) {\n  ...\n  362  	);\n  363  	\n  364: 	$response = wp_remote_get( add_query_arg( $check_params, SC_EDD_SL_STORE_URL ), array( 'timeout' => 15, 'sslverify' => false ) );\n  365  \n  366  	if( is_wp_error( $response ) )\n  ...\n  369  	}\n  370  	\n  371: 	$is_valid = json_decode( wp_remote_retrieve_body( $response ) );\n  372  	\n  373  	if( ! empty( $is_valid ) ) {\n  374: 		return json_decode( wp_remote_retrieve_body( $response ) )->license;\n  375  	} else {\n  376  		return 'notfound';\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wordpress-seo/admin/ajax.php:\n   92  \n   93  	$term   = urlencode( $_GET['term'] );\n   94: 	$result = wp_remote_get( 'https://www.google.com/complete/search?output=toolbar&q=' . $term );\n   95  \n   96  	$return_arr = array();\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wordpress-seo/admin/class-tracking.php:\n  164  			);\n  165  \n  166: 			wp_remote_post( 'https://tracking.yoast.com/', $args );\n  167  \n  168  		}\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wordpress-seo/admin/license-manager/class-api-request.php:\n   67  \n   68  			// fire request to shop\n   69: 			$response = wp_remote_request( $this->url, $this->args );\n   70  \n   71  			// validate raw response\n   ..\n   75  \n   76  			// decode the response\n   77: 			$this->response = json_decode( wp_remote_retrieve_body( $response ) );\n   78  \n   79  			// response should be an object\n   ..\n   99  \n  100  			// check response code, should be 200\n  101: 			$response_code = wp_remote_retrieve_response_code( $response );\n  102  \n  103  			if( false === strstr( $response_code, '200' ) ) {\n  104  \n  105: 				$response_message = wp_remote_retrieve_response_message( $response );\n  106  				$this->error_message = \"{$response_code} {$response_message}\";\n  107  \n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wordpress-seo/admin/license-manager/class-update-manager.php:\n   90  		 *\n   91  		 * @uses         get_bloginfo()\n   92: 		 * @uses         wp_remote_post()\n   93  		 * @uses         is_wp_error()\n   94  		 *\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wordpress-seo/inc/class-sitemaps.php:\n 1269  			$base = $GLOBALS['wp_rewrite']->using_index_permalinks() ? 'index.php/' : '';\n 1270  			$url  = home_url( $base . 'sitemap_index.xml' );\n 1271: 			wp_remote_get( $url );\n 1272  		}\n 1273  \n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wordpress-seo/inc/wpseo-functions.php:\n  287  \n  288  	// Always ping Google and Bing, optionally ping Ask and Yahoo!\n  289: 	wp_remote_get( 'http://www.google.com/webmasters/tools/ping?sitemap=' . $sitemapurl );\n  290: 	wp_remote_get( 'http://www.bing.com/ping?sitemap=' . $sitemapurl );\n  291  \n  292  	if ( $options['xml_ping_yahoo'] === true ) {\n  293: 		wp_remote_get( 'http://search.yahooapis.com/SiteExplorerService/V1/updateNotification?appid=3usdTDLV34HbjQpIBuzMM1UkECFl5KDN7fogidABihmHBfqaebDuZk1vpLDR64I-&url=' . $sitemapurl );\n  294  	}\n  295  \n  296  	if ( $options['xml_ping_ask'] === true ) {\n  297: 		wp_remote_get( 'http://submissions.ask.com/ping?sitemap=' . $sitemapurl );\n  298  	}\n  299  }\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wordpress-seo/inc/wpseo-non-ajax-functions.php:\n   31  		'user-agent' => \"WordPress/${wp_version}; \" . get_site_url() . ' - Yoast',\n   32  	);\n   33: 	$resp = wp_remote_get( get_bloginfo( 'url' ), $args );\n   34  \n   35  	// echo '<pre>'.$resp['body'].'</pre>';\n   ..\n   41  			$options['forcerewritetitle'] = true;\n   42  \n   43: 			$resp = wp_remote_get( get_bloginfo( 'url' ), $args );\n   44  			$res  = false;\n   45  			if ( ( $resp && ! is_wp_error( $resp ) ) && ( 200 == $resp['response']['code'] && isset( $resp['body'] ) ) ) {\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wp-crontrol/wp-crontrol.php:\n  429  		$cron_request['args']['blocking'] = true;\n  430  \n  431: 		$result = wp_remote_post( $cron_request['url'], $cron_request['args'] );\n  432  \n  433  		if ( is_wp_error( $result ) ) {\n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wp-migrate-db-pro-media-files/class/wpmdbpro-media-files.php:\n  549  			return new WP_Error('http_no_file', __('Could not create Temporary file.'));\n  550  \n  551: 		$response = wp_remote_get( $url, array( 'timeout' => $timeout, 'stream' => true, 'filename' => $tmpfname, 'reject_unsafe_urls' => false ) );\n  552  \n  553  		if ( is_wp_error( $response ) ) {\n  ...\n  556  		}\n  557  \n  558: 		if ( 200 != wp_remote_retrieve_response_code( $response ) ){\n  559  			unlink( $tmpfname );\n  560: 			return new WP_Error( 'http_404', trim( wp_remote_retrieve_response_message( $response ) ) );\n  561  		}\n  562  \n\n/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wp-migrate-db-pro/class/wpmdbpro-base.php:\n  138  		$this->attempting_to_connect_to = $url;\n  139  \n  140: 		$response = wp_remote_post( $url, $args );\n  141  \n  142  		if ( ! is_wp_error( $response ) ) {\n  ...\n  322  \n  323  		$url = $this->get_dbrains_api_url( $request, $args );\n  324: 		$response = wp_remote_get( $url, array(\n  325  			'timeout'  => 30,\n  326  			'blocking'  => true,\n  ...\n  350  \n  351  		$url = $this->dbrains_api_base . '/content/themes/delicious-brains/update-popup/' . $filename . '.html';\n  352: 		$data = wp_remote_get( $url, array( 'timeout' => 30 ) );\n  353  \n  354  		if ( is_wp_error( $data ) || 200 != $data['response']['code'] ) {\n\n62 matches across 27 files\n",
+			"settings":
+			{
+				"buffer_size": 14539,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html ng-app=\"MyApp\">\n\n<head>\n	<meta charset=\"utf-8\" />\n	<title>Angular.js Switch Input</title>\n	<meta name=\"description\" content=\"On/off switch form field input directive for Angular.js\" />\n	<script src=\"//ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.min.js\"></script>\n\n	<!-- ng-on-off-switch.html template, inline or external -->\n	<script type=\"text/ng-template\" id=\"ng-on-off-switch\">\n	<div class=\"on-off-switch\" ng-click=\"switch()\" ng-class=\"{'active': value}\">\n		<input type=\"checkbox\" class=\"on-off-switch-checkbox\" ng-checked=\"{{value}}\" />\n		<label class=\"on-off-switch-label\">\n			<span class=\"on-off-switch-inner\"></span>\n			<span class=\"on-off-switch-switch\"></span>\n		</label>\n	</div>\n	</script>\n</head>\n\n<body>\n	<!-- switch on/off input directive -->\n	<form ng-controller=\"MyCtrl\">\n		<div ng-on-off-switch ng-model=\"switchValue\"></div> {{ switchValue }}\n	</form>\n</body>\n\n</html>",
+			"settings":
+			{
+				"buffer_size": 917,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/kevinleary/Desktop/ng-on-off-switch.js",
+			"settings":
+			{
+				"buffer_size": 921,
+				"line_ending": "Unix",
+				"name": "/**"
+			}
+		},
+		{
+			"file": "/Users/kevinleary/Sites/angular-trial-app/scripts/vendor/angular-shims-placeholder/bower.json",
+			"settings":
+			{
+				"buffer_size": 911,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html ng-app=\"MyApp\">\n\n<head>\n	<meta charset=\"utf-8\" />\n	<title>AngularJS</title>\n	<script src=\"//ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.min.js\"></script>\n</head>\n\n<body>\n\n<!-- ng-on-off-switch.html template, inline or external -->\n<script type=\"text/ng-template\" id=\"ng-on-off-switch\">\n<div class=\"on-off-switch\" ng-click=\"switch()\" ng-class=\"{'active': value}\">\n	<input type=\"checkbox\" class=\"on-off-switch-checkbox\" ng-checked=\"{{value}}\" />\n	<label class=\"on-off-switch-label\">\n		<span class=\"on-off-switch-inner\"></span>\n		<span class=\"on-off-switch-switch\"></span>\n	</label>\n</div>\n</script>\n\n<!-- switch on/off input directive -->\n<form ng-controller=\"MyCtrl\">\n    <div ng-on-off-switch ng-model=\"switchValue\"></div> {{ switchValue }}\n</form>\n\n</body>\n\n</html>",
+			"settings":
+			{
+				"buffer_size": 799,
+				"line_ending": "Unix",
+				"name": "<!DOCTYPE html>"
+			}
+		},
+		{
+			"file": "/Users/kevinleary/Sites/angular-trial-app/styles/less/mixins.less",
+			"settings":
+			{
+				"buffer_size": 2951,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"mark",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Turn Execute On Save On"
+			],
+			[
+				"handlebars",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"preview",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"github",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"snippet",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kevinleary/Sites/angular-trial-app",
+		"/Users/kevinleary/Sites/angular-trial-app/scripts",
+		"/Users/kevinleary/Sites/angular-trial-app/scripts/vendor",
+		"/Users/kevinleary/Sites/angular-trial-app/scripts/vendor/angular-shims-placeholder",
+		"/Users/kevinleary/Sites/angular-trial-app/scripts/vendor/angular-shims-placeholder/dist",
+		"/Users/kevinleary/Sites/angular-trial-app/styles/less"
+	],
+	"file_history":
+	[
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/less/account.less",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/account/licenses.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/_cloud-activate.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/account/cloud.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/_cloud-manager.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/_modal-purchase-credits-confirm.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/_modal-activation-confirm.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/debug.log",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-config.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/cloud.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/utils.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/profile.php",
+		"/Users/kevinleary/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/cloud.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/pardot.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/ajax-proxy.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0/WP_Auth0.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/_modal-purchase-confirm.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/payments.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/profile.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/licensing.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/account/profile.js",
+		"/Users/kevinleary/.bash_aliases",
+		"/private/etc/hosts",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/account.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/account/utilities.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/lib/notify.js",
+		"/Users/kevinleary/Sites/rapid-vvv/.gitignore",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0/assets/js/auth0.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/enqueue.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/_modal-agreement.twig",
+		"/Users/kevinleary/Desktop/test.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/_modal.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/account.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/modal-agreement.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/Gruntfile.js",
+		"/Users/kevinleary/Sites/rapid-vvv/README.md",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/jupiter/<table width=\"100%\">",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/gravityformsuserregistration/includes/activate.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/gravityformsuserregistration/userregistration.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/gravityformsuserregistration/includes/signups.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/licensing.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/account.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/pardot.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/account.source.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/account/downloads.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/utilities.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/account/global.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/account.min.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/account-licenses.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/cloud.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/_header.handlebars",
+		"/Users/kevinleary/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/template-dashboard.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/downloads.handlebars",
+		"/Users/kevinleary/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/download.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/functions.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/admin-control.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/rapid-functionality.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/licenses.handlebars",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/_footer.handlebars",
+		"/Users/kevinleary/Library/Application Support/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/wrapper.handlebars",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/partial-ui-feedback.handlebars",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/partial-loading.twig",
+		"/Users/kevinleary/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/admin-controls.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/modal-eula.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/less/admin.less",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/dist/css/admin.css",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/dist/css/login.source.css",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/dist/css/login.min.css",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/dist/css/login.css",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/dist/js/login.min.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/assets/less/admin.less",
+		"/Users/kevinleary/Sites/rapidminer.sublime-project",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/charge.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/_order.handlebars",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/partial-order.twig",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/vendor/twig/twig/ext/twig/twig.c",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/jupiter/framework/widgets/widgets-instagram-feeds.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/jupiter/fontface/TitilliumText22L001-webfont.svg",
+		"/Users/kevinleary/Library/Application Support/Sublime Text 3/Packages/User/printarr.sublime-snippet",
+		"/Users/kevinleary/Desktop/stripe.json",
+		"/Users/kevinleary/Library/Application Support/Sublime Text 3/Packages/User/csscomm.sublime-snippet",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/cloud-beta.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/jquery.payment.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/profile-edit.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/404.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/lib/jupiter-pluggable.php",
+		"/Users/kevinleary/Sites/rapid-vvv/config/nginx-config/nginx.conf",
+		"/Users/kevinleary/Sites/rapid-vvv/provision/provision.sh",
+		"/Users/kevinleary/Sites/rapid-vvv/config/nginx-config/nginx-wp-common.conf",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/uploads/rapidminerworld_2014_template.tex",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/restricted-site-access/restricted-site-access.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/readme.html",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/restricted-site-access/restricted_site_access.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/mu-plugins/rapid-env-configs.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/licensing-admin.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/.gitignore",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/composer.json",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/templating.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/stripe-php/config.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/profile.handlebars",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/templating.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/profile.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/enqueue.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/payments.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/ecommerce.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/utils.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/.gitignore",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/licensing-ajax.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/inc/download.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/Handlebars/Autoloader.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/templates/auth0-user-export.json.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0/lib/WP_Auth0_Users.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer/lib/eventbrite-proxy-event_get.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/gravityformsuserregistration/includes/pending_activations.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/jupiter/page-composer/config/map.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/jupiter/page-composer/config/loops.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/jupiter/framework/admin/generators/option-generator.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/jupiter/framework/admin/generators/metabox-generator.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/stripe-php/charge.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/assets/js/handlebars.jquery.js",
+		"/Users/kevinleary/Sites/rapid-vvv/www/wp-cli/vendor/phpunit/phpunit/Tests/_files/NoTestCases.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/wp-cli/php/WP_CLI/NoOp.php",
+		"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/nightwatch.json"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.twig",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.less",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-functionality,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.pjp",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-functionality/,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-functionality,*.handlebars",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-functionality,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-auth0",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/mu-plugins,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/gravityformsuserregistration,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/jupiter",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/wpmandrill",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality/lib/Handlebars",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content,*.less",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-functionality,*php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.js",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/rapid-auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/plugins/auth0,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer,*.php",
+			"/Users/kevinleary/Sites/rapid-vvv/www/rapid-staging/wp-content/themes/rapidminer,*.less"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"wp_remote",
+			"wp_request",
+			"onOffSwitch",
+			".value",
+			"angular",
+			".border-radius",
+			", ",
+			"make_cloud_credits",
+			"cloud_ol_request",
+			"creditCount",
+			"input",
+			"credit",
+			"credit_count",
+			"modal",
+			"'moda",
+			"creditsPurchase",
+			"_modal-purchase-confirm",
+			"prices.",
+			"options",
+			"get_cloud_ol_token",
+			"ENDPOINT_",
+			"get_cloud_ol_token",
+			" : ",
+			"get_cloud_ol_token",
+			"cloud_ol_api_key",
+			"\"",
+			"\":\"",
+			"wp_remote_post",
+			"'cloud_ol_api_token'",
+			"$cloud_ol_api_token",
+			"special_query_results",
+			"wp_schedule_event",
+			"wp_schedule",
+			"schedule",
+			"cron",
+			"get_profile_data",
+			"is_activated",
+			"user_id",
+			"window.accountData.",
+			"user",
+			"window.",
+			"user",
+			"update_usermeta_callback",
+			"rapid_update_usermeta",
+			"modal_security",
+			"wp_create_nonce",
+			"allowed",
+			"'get_option'",
+			"update_usermeta_callback",
+			"get_option",
+			"save_stripe",
+			"get_option",
+			"get_option_callback",
+			"profile",
+			"opts.",
+			"window.accountData.",
+			"$form",
+			"cost",
+			".btn-primary",
+			"btn-primary",
+			"']",
+			"['",
+			"ob_start",
+			"billing_stripe_token.",
+			"billing_stripe_token.card.",
+			"billing_stripe_token",
+			", 'rapidminer' )",
+			"__( ",
+			"''",
+			"get_profile",
+			"billing_stripe_token",
+			"close-modal",
+			"_modal-purchase-confirm",
+			"rm_functionality_plugin_",
+			"modal",
+			"type",
+			"description",
+			"'.modal'",
+			"#dashboard",
+			"ajaxModal",
+			"allowed_options",
+			"get_option_callback",
+			"rapid_get_option",
+			"Stripe::",
+			"save_stripe_callback",
+			"save_profile_callback",
+			"rapid_save_profile",
+			"__( , 'rapidminer' )",
+			"get_profile_data",
+			"$current_user",
+			"					",
+			"					'",
+			" }}",
+			" }}, ",
+			" }} ",
+			"\n",
+			"{{ ",
+			"get_option_callback",
+			"modal",
+			"activate-cloud",
+			"activate",
+			"ajaxModal",
+			"modal\nmodal",
+			"modal",
+			"	www/",
+			"vat",
+			"->billing_stripe_token",
+			"profile_data.billing_stripe_token.",
+			"save",
+			"formData",
+			"this.",
+			"formData",
+			"billing_stripe_token",
+			"profile_data",
+			"stripeToken",
+			"billing_stripe_token",
+			"change_credit_card",
+			"$_POST['token']",
+			"stripeResponseHandler",
+			"billing_stripe_token",
+			"change_credit_card",
+			"addNotice",
+			"notifyjs-corner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"::$path_",
+			"::$path_inc",
+			"::$path_lib",
+			"Rapidminer_",
+			"account.php"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/kevinleary/Sites/angular-trial-app/styles/less/directives.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1295,
+								1295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/kevinleary/Sites/angular-trial-app/scripts/directives/ng-on-off-switch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14539,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										184,
+										193
+									],
+									[
+										436,
+										445
+									],
+									[
+										695,
+										704
+									],
+									[
+										1072,
+										1081
+									],
+									[
+										1353,
+										1362
+									],
+									[
+										1596,
+										1605
+									],
+									[
+										2019,
+										2028
+									],
+									[
+										2316,
+										2325
+									],
+									[
+										2645,
+										2654
+									],
+									[
+										3081,
+										3090
+									],
+									[
+										3102,
+										3111
+									],
+									[
+										3151,
+										3160
+									],
+									[
+										3365,
+										3374
+									],
+									[
+										3517,
+										3526
+									],
+									[
+										3623,
+										3632
+									],
+									[
+										3926,
+										3935
+									],
+									[
+										4062,
+										4071
+									],
+									[
+										4417,
+										4426
+									],
+									[
+										4669,
+										4678
+									],
+									[
+										4988,
+										4997
+									],
+									[
+										5066,
+										5075
+									],
+									[
+										5319,
+										5328
+									],
+									[
+										5528,
+										5537
+									],
+									[
+										5667,
+										5676
+									],
+									[
+										5839,
+										5848
+									],
+									[
+										6178,
+										6187
+									],
+									[
+										6376,
+										6385
+									],
+									[
+										6765,
+										6774
+									],
+									[
+										6909,
+										6918
+									],
+									[
+										7046,
+										7055
+									],
+									[
+										7320,
+										7329
+									],
+									[
+										7509,
+										7518
+									],
+									[
+										7860,
+										7869
+									],
+									[
+										8069,
+										8078
+									],
+									[
+										8363,
+										8372
+									],
+									[
+										8445,
+										8454
+									],
+									[
+										8660,
+										8669
+									],
+									[
+										8891,
+										8900
+									],
+									[
+										9037,
+										9046
+									],
+									[
+										9260,
+										9269
+									],
+									[
+										9375,
+										9384
+									],
+									[
+										9643,
+										9652
+									],
+									[
+										9910,
+										9919
+									],
+									[
+										10180,
+										10189
+									],
+									[
+										10357,
+										10366
+									],
+									[
+										10536,
+										10545
+									],
+									[
+										10690,
+										10699
+									],
+									[
+										11035,
+										11044
+									],
+									[
+										11371,
+										11380
+									],
+									[
+										11611,
+										11620
+									],
+									[
+										11706,
+										11715
+									],
+									[
+										11844,
+										11853
+									],
+									[
+										12102,
+										12111
+									],
+									[
+										12427,
+										12436
+									],
+									[
+										12610,
+										12619
+									],
+									[
+										12982,
+										12991
+									],
+									[
+										13344,
+										13353
+									],
+									[
+										13570,
+										13579
+									],
+									[
+										13699,
+										13708
+									],
+									[
+										13965,
+										13974
+									],
+									[
+										14147,
+										14156
+									],
+									[
+										14379,
+										14388
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								3823,
+								3823
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6851.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								917,
+								917
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/kevinleary/Desktop/ng-on-off-switch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								921
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/**",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/kevinleary/Sites/angular-trial-app/scripts/vendor/angular-shims-placeholder/bower.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								911
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								603
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE html>",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/kevinleary/Sites/angular-trial-app/styles/less/mixins.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2721,
+								2721
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1308.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "angular-switch-input.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Vagrant/www/rapid-staging/wp-content/plugins/rapid-custom-login-page/rapid-custom-login-page.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
