@@ -6,7 +6,7 @@ Angular directive for creating on/off switch form fields using pure CSS3. Compat
 Build status
 ------------
 
-[![Build Status](https://travis-ci.org/kevinlearynet/angular-switch-input.png?branch=master)](https://travis-ci.org/kevinlearynet/angular-switch-input)
+[![Build Status](https://travis-ci.org/kevinlearynet/angular-switch-input.png?branch=master)](https://travis-ci.org/Kevinlearynet/angular-switch-input)
 
 Usage
 -----
